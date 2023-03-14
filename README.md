@@ -3,6 +3,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chlvhksl&show_icons=true&theme=radical)
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인아이디&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=본인아이디&show_icons=true">  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chlvhksl&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=chlvhksl&show_icons=true">  
 </div>
